@@ -11,8 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05fff75e-fc77-4657-bd0a-fac821fe7318" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +67,8 @@
       <workItem from="1588831095692" duration="3252000" />
       <workItem from="1588888487077" duration="20000" />
       <workItem from="1588888508416" duration="13000" />
-      <workItem from="1588888526191" duration="8477000" />
+      <workItem from="1588888526191" duration="9199000" />
+      <workItem from="1588908305075" duration="1523000" />
     </task>
     <servers />
   </component>
@@ -83,10 +91,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="139" width="600" height="486" key="find.popup" timestamp="1588897320206">
+    <state x="350" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588909806603">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="487" y="139" width="600" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588897320206" />
+    <state x="350" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1588909806603" />
+    <state width="1134" height="171" key="GridCell.Tab.0.bottom" timestamp="1588908954903">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1134" height="171" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1588908954903" />
+    <state width="1134" height="171" key="GridCell.Tab.0.center" timestamp="1588908954903">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1134" height="171" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1588908954903" />
+    <state width="1134" height="171" key="GridCell.Tab.0.left" timestamp="1588908954902">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1134" height="171" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1588908954902" />
+    <state width="1134" height="171" key="GridCell.Tab.0.right" timestamp="1588908954903">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1134" height="171" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1588908954903" />
+    <state x="487" y="139" width="600" height="486" key="find.popup" timestamp="1588909397017">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="487" y="139" width="600" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588909397017" />
     <state x="359" y="124" key="search.everywhere.popup" timestamp="1588884433535">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
