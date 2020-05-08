@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05fff75e-fc77-4657-bd0a-fac821fe7318" name="Default Changelist" comment="" />
+    <list default="true" id="05fff75e-fc77-4657-bd0a-fac821fe7318" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,10 +105,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1134" height="171" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1588910595997" />
-    <state x="487" y="139" width="600" height="486" key="find.popup" timestamp="1588909397017">
+    <state x="487" y="139" width="600" height="538" key="find.popup" timestamp="1588914880947">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="487" y="139" width="600" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588909397017" />
+    <state x="487" y="139" width="600" height="538" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588914880947" />
     <state x="359" y="124" key="search.everywhere.popup" timestamp="1588884433535">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
