@@ -11,67 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05fff75e-fc77-4657-bd0a-fac821fe7318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/syntax.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/404-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar-annette.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home-bg-o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon_wechat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post-bg-js-module.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/hux-blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/hux-blog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.tagcloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less/hux-blog.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less/sidebar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RusLin-oir.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RusLin-oir.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-07-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +60,7 @@
       <workItem from="1588831095692" duration="3252000" />
       <workItem from="1588888487077" duration="20000" />
       <workItem from="1588888508416" duration="13000" />
-      <workItem from="1588888526191" duration="8059000" />
+      <workItem from="1588888526191" duration="8477000" />
     </task>
     <servers />
   </component>
@@ -142,10 +83,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="139" width="600" height="486" key="find.popup" timestamp="1588892486937">
+    <state x="487" y="139" width="600" height="486" key="find.popup" timestamp="1588897320206">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="487" y="139" width="600" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588892486937" />
+    <state x="487" y="139" width="600" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1588897320206" />
     <state x="359" y="124" key="search.everywhere.popup" timestamp="1588884433535">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
