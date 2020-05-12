@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05fff75e-fc77-4657-bd0a-fac821fe7318" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1bZEDIuCEthfDaKL63CRgpBTer2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,6 +65,8 @@
       <workItem from="1588888508416" duration="13000" />
       <workItem from="1588888526191" duration="9199000" />
       <workItem from="1588908305075" duration="2288000" />
+      <workItem from="1588917143773" duration="33000" />
+      <workItem from="1589310088297" duration="387000" />
     </task>
     <servers />
   </component>
